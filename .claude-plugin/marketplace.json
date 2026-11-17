@@ -1,0 +1,17 @@
+{
+  "name": "craftwork",
+  "owner": {
+    "name": "Craftwork",
+    "url": "https://craftwork.design"
+  },
+  "metadata": {
+    "description": "Craftwork for coding agents: the craftwork-design skill and the Craftwork MCP server."
+  },
+  "plugins": [
+    {
+      "name": "craftwork",
+      "source": "./",
+      "description": "Design direction, taste rules and human-made resources from Craftwork: React components, templates, fonts, shader backgrounds, 3D, icons and mockups."
+    }
+  ]
+}

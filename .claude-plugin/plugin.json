@@ -1,0 +1,24 @@
+{
+  "name": "craftwork",
+  "version": "1.0.0",
+  "description": "Design direction, taste rules and human-made resources from Craftwork: React components, templates, fonts, shader backgrounds, 3D, icons and mockups.",
+  "author": {
+    "name": "Craftwork",
+    "url": "https://craftwork.design"
+  },
+  "homepage": "https://craftwork.design/skill",
+  "repository": "https://github.com/craftwork-design/skills",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "ui",
+    "frontend",
+    "components",
+    "templates",
+    "fonts",
+    "icons",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://craftwork.design/privacy-policy",
+  "icon": ".claude-plugin/icon.png"
+}

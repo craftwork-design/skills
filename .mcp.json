@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "craftwork": {
+      "type": "http",
+      "url": "https://craftwork.design/api/mcp"
+    }
+  }
+}
